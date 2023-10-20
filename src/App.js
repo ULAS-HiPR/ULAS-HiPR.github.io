@@ -9,6 +9,7 @@ function App() {
       </header>
       <body>
         ULAS HiPR
+        Wow Rockets
       </body>
     </div>
   );

@@ -3,6 +3,6 @@ import App from './App';
 
 test('renders Team title', () => {
   render(<App />);
-  const linkElement = screen.getByText(/ULAS HiPR/i);
+  const linkElement = screen.getByText(/ROCKETS!!!!!!!/i);
   expect(linkElement).toBeInTheDocument();
 });

@@ -1,11 +1,12 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
 import '../css/NavBar.css';
-import '../css/App.css';
+
 
 
 export default function Navbar() {
   return (
-    <nav>
+    <div class="header">
+      <nav className='navbar'>
       <Link to="/" className="site-title">
         Home
       </Link>
@@ -13,7 +14,8 @@ export default function Navbar() {
         <CustomLink to="/projects">Projects</CustomLink>
         <CustomLink to="/about">About</CustomLink>
       </ul>
-    </nav>
+      </nav>
+    </div>
   )
 }
 

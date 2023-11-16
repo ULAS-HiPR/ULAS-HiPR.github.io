@@ -10,10 +10,6 @@ function Home() {
     <>
  
         <Hero />
-        <HomeMach24 />
-        <HomeProjects />
-        <HomeAbout />
-
     </>
   );
 };

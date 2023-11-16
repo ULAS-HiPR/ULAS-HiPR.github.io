@@ -7,6 +7,7 @@ const HomeAbout = () => {
     <>
           <div class='content'>
             <h1>ROCKETS!!!!!!!</h1>
+            <p> we are such a cool team pls join us</p>
         </div>
     </>
   );

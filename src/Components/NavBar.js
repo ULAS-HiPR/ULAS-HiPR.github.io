@@ -1,5 +1,6 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
 import '../css/NavBar.css';
+import React from 'react';
 
 
 
@@ -31,3 +32,4 @@ function CustomLink({ to, children, ...props }) {
     </li>
   )
 }
+

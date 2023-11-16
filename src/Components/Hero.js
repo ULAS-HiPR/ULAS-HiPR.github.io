@@ -6,9 +6,12 @@ const Hero = () => {
   return (
     <>
         <div class='hero'>
+          <div className='fade-img'> </div>
           <div class='content'>
-            <h1>ROCKETS!!!!!!!</h1>
+            <div className='title'>We are <b>HiPR</b></div>
+            <div className='sub-title'>A rocketry team from the Univsertiy of Limerick</div>
           </div>
+         
         </div>
     </>
   );

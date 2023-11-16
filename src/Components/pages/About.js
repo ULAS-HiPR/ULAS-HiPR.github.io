@@ -4,8 +4,7 @@ import '../../css/App.css';
 const About = () => {
   return (
     <>
-       
-        <h1>UL HiPR</h1>
+
     </>
   );
 };

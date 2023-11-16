@@ -1,8 +1,10 @@
 .small-title{
     padding-top: 7rem;
+    padding-bottom: 2rem;
     font-size: 2rem;
     text-decoration: underline;
     text-align: center;
+
 }
 
 .title{
@@ -30,5 +32,13 @@
 }
 
 .carImg{
-    width: 100%;
+    border-radius: 2rem;
+    width: 80%;
+    margin: auto;
 }
+
+.carousel-caption{
+    text-align: left !important;
+    top: 50% !important;
+}
+

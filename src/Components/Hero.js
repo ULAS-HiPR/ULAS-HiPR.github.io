@@ -8,7 +8,7 @@ const Hero = () => {
         <div class='hero'>
           <div className='fade-img'> </div>
           <div class='content'>
-            <div className='title'>We are <b>HiPR</b></div>
+            <div className='hero-title'>We are <b>HiPR</b></div>
             <div className='sub-title'>A rocketry team from the Univsertiy of Limerick</div>
           </div>
          

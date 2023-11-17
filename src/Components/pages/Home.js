@@ -2,7 +2,7 @@ import React from 'react';
 import '../../css/App.css';
 import Hero from '../Hero';
 import HomeAbout from '../HomeAbout';
-import HomeMach24 from '../HomeMach24';
+import HomwProjectShowcase from '../HomwProjectShowcase';
 import HomeProjects from '../HomeProjects';
 
 function Home() {
@@ -10,7 +10,7 @@ function Home() {
     <>
  
         <Hero />
-        <HomeMach24 />
+        <HomwProjectShowcase />
         <HomeProjects />
         <HomeAbout />
     </>

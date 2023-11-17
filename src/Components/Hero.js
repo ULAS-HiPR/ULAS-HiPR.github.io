@@ -8,8 +8,8 @@ const Hero = () => {
         <div class='hero'>
           <div className='fade-img'> </div>
           <div class='content'>
-            <div className='hero-title'>We are <b>HiPR</b></div>
-            <div className='sub-title'>A rocketry team from the Univsertiy of Limerick</div>
+            <div className='hero-title'><b>ULAS-HiPR</b></div>
+           
           </div>
          
         </div>
